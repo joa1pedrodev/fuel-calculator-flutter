@@ -38,14 +38,3 @@ This project helped me learn and practice:
 - Clean layout with `Padding`, `Column`, `Image`, `TextField`, `Button`
 - Simple decision-making logic in Dart
 
----
-
-## 🚀 Getting Started
-
-To run this app locally:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-flutter pub get
-flutter run
